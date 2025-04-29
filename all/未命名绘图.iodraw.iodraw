@@ -21,9 +21,6 @@
             <mxPoint x="620" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bYXAgbfnWKjL5jOvZB3N-6" value="后端" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="bYXAgbfnWKjL5jOvZB3N-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1110" y="500" width="350" height="60" as="geometry" />
         </mxCell>
