@@ -76,8 +76,8 @@
         <mxCell id="zC6wW_7qMAI-Ob5F-JqT-20" value="T" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="940" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zC6wW_7qMAI-Ob5F-JqT-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1000" width="120" height="60" as="geometry" />
+        <mxCell id="zC6wW_7qMAI-Ob5F-JqT-21" value="注册成功并将账号信息写入数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="191.23" y="980" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
