@@ -37,8 +37,19 @@
         <mxCell id="zC6wW_7qMAI-Ob5F-JqT-9" value="T" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="710" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="zC6wW_7qMAI-Ob5F-JqT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zC6wW_7qMAI-Ob5F-JqT-11" target="zC6wW_7qMAI-Ob5F-JqT-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="224.92592592592587" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zC6wW_7qMAI-Ob5F-JqT-11" value="输入账号密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="191.23000000000002" y="740" width="67.54" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zC6wW_7qMAI-Ob5F-JqT-13" value="查询数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="191.23000000000002" y="820" width="67.54" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zC6wW_7qMAI-Ob5F-JqT-14" value="拥有账号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="191.23000000000002" y="880" width="66" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
