@@ -69,8 +69,8 @@
         <mxCell id="HVIWiXZLu8Kp4zVvxJFR-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;生成摘要与分类&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="767" y="520" width="103" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HVIWiXZLu8Kp4zVvxJFR-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;生成摘要与分类&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="777" y="530" width="103" height="40" as="geometry" />
+        <mxCell id="HVIWiXZLu8Kp4zVvxJFR-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;语音合成&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="767" y="565" width="103" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
