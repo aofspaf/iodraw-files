@@ -37,8 +37,8 @@
         <mxCell id="zC6wW_7qMAI-Ob5F-JqT-9" value="T" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="710" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zC6wW_7qMAI-Ob5F-JqT-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="182.46" y="730" width="67.54" height="40" as="geometry" />
+        <mxCell id="zC6wW_7qMAI-Ob5F-JqT-11" value="输入账号密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="191.23000000000002" y="740" width="67.54" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
