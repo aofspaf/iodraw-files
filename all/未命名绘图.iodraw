@@ -17,7 +17,7 @@
         </mxCell>
         <mxCell id="zC6wW_7qMAI-Ob5F-JqT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zC6wW_7qMAI-Ob5F-JqT-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="341.9629629629628" y="750" as="targetPoint" />
+            <mxPoint x="380" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zC6wW_7qMAI-Ob5F-JqT-2" value="拥有账号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -78,6 +78,9 @@
         </mxCell>
         <mxCell id="zC6wW_7qMAI-Ob5F-JqT-21" value="注册成功并将账号信息写入数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="191.23" y="980" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zC6wW_7qMAI-Ob5F-JqT-22" value="查询数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="760" width="67.54" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
