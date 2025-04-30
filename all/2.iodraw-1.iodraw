@@ -18,6 +18,12 @@
         <mxCell id="naKEHr8ZD95hYSNXX_gW-4" value="进入新闻系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="220" width="86" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="naKEHr8ZD95hYSNXX_gW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="naKEHr8ZD95hYSNXX_gW-7" target="naKEHr8ZD95hYSNXX_gW-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="naKEHr8ZD95hYSNXX_gW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="naKEHr8ZD95hYSNXX_gW-7" target="naKEHr8ZD95hYSNXX_gW-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="naKEHr8ZD95hYSNXX_gW-7" value="首页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="330" width="86" height="50" as="geometry" />
         </mxCell>
@@ -55,10 +61,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="naKEHr8ZD95hYSNXX_gW-22" value="退出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="420" width="86" height="50" as="geometry" />
+          <mxGeometry x="64" y="420" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="naKEHr8ZD95hYSNXX_gW-23" value="退出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="208" y="420" width="86" height="50" as="geometry" />
+          <mxGeometry x="220" y="420" width="86" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
