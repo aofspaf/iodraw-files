@@ -55,7 +55,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="naKEHr8ZD95hYSNXX_gW-22" value="退出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="338" y="420" width="86" height="50" as="geometry" />
+          <mxGeometry x="50" y="420" width="86" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="naKEHr8ZD95hYSNXX_gW-23" value="退出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="208" y="420" width="86" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
