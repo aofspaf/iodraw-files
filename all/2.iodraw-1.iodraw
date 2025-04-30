@@ -26,7 +26,7 @@
         <mxCell id="GWyAGJK1g9bn1_Iafatr-5" value="进行数据清洗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="250" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GWyAGJK1g9bn1_Iafatr-8" value="进行数据清洗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GWyAGJK1g9bn1_Iafatr-8" value="根据标题和内容获取摘要" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="320" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
