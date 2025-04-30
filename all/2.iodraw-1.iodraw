@@ -15,6 +15,9 @@
         <mxCell id="GWyAGJK1g9bn1_Iafatr-3" value="爬取指定网站的新闻" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="180" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="GWyAGJK1g9bn1_Iafatr-5" value="爬取指定网站的新闻" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
