@@ -12,8 +12,8 @@
         <mxCell id="naKEHr8ZD95hYSNXX_gW-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="150" width="86" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="naKEHr8ZD95hYSNXX_gW-4" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="304" y="160" width="86" height="50" as="geometry" />
+        <mxCell id="naKEHr8ZD95hYSNXX_gW-4" value="进入基于大模型的自动化新闻摘要和语言播报系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="220" width="86" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
