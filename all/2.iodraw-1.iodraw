@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="WnmXGMXZCNqycGV7fn2f">
-    <mxGraphModel dx="1660" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="833" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,13 +37,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="naKEHr8ZD95hYSNXX_gW-12" value="退出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="328" y="410" width="86" height="50" as="geometry" />
+          <mxGeometry x="360" y="420" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="naKEHr8ZD95hYSNXX_gW-13" value="查看收藏新闻" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="410" width="86" height="50" as="geometry" />
+          <mxGeometry x="470" y="410" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="naKEHr8ZD95hYSNXX_gW-14" value="取消收藏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="410" width="86" height="50" as="geometry" />
+          <mxGeometry x="600" y="410" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="naKEHr8ZD95hYSNXX_gW-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="naKEHr8ZD95hYSNXX_gW-8" target="naKEHr8ZD95hYSNXX_gW-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -70,7 +70,7 @@
           <mxGeometry x="260" y="420" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="naKEHr8ZD95hYSNXX_gW-26" value="浏览新闻列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="420" width="86" height="50" as="geometry" />
+          <mxGeometry x="40" y="420" width="86" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
